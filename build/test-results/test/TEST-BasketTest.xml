@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="BasketTest" tests="18" skipped="0" failures="0" errors="0" timestamp="2023-09-09T13:44:06" hostname="AMAL0R30DCVH3" time="0.572">
+  <properties/>
+  <testcase name="[1] [SMALL, SMALL], SMALL" classname="BasketTest" time="0.549"/>
+  <testcase name="[2] [SMALL, SMALL, SMALL], MEDIUM" classname="BasketTest" time="0.002"/>
+  <testcase name="[3] [SMALL, SMALL, MEDIUM], MEDIUM" classname="BasketTest" time="0.0"/>
+  <testcase name="[4] [SMALL, SMALL, LARGE], LARGE" classname="BasketTest" time="0.001"/>
+  <testcase name="[5] [SMALL, SMALL, SMALL, SMALL], MEDIUM" classname="BasketTest" time="0.0"/>
+  <testcase name="[6] [SMALL, SMALL, SMALL, LARGE], MEDIUM" classname="BasketTest" time="0.0"/>
+  <testcase name="[7] [SMALL, SMALL, SMALL, SMALL, SMALL], MEDIUM" classname="BasketTest" time="0.0"/>
+  <testcase name="[8] [SMALL, SMALL, MEDIUM, MEDIUM, LARGE], LARGE" classname="BasketTest" time="0.0"/>
+  <testcase name="[9] [SMALL, MEDIUM], MEDIUM" classname="BasketTest" time="0.001"/>
+  <testcase name="[10] [SMALL, MEDIUM, MEDIUM], MEDIUM" classname="BasketTest" time="0.001"/>
+  <testcase name="[11] [MEDIUM, MEDIUM], MEDIUM" classname="BasketTest" time="0.001"/>
+  <testcase name="[12] [MEDIUM, MEDIUM, MEDIUM], LARGE" classname="BasketTest" time="0.0"/>
+  <testcase name="[13] [MEDIUM, MEDIUM, MEDIUM, MEDIUM], LARGE" classname="BasketTest" time="0.0"/>
+  <testcase name="[14] [MEDIUM, LARGE], LARGE" classname="BasketTest" time="0.001"/>
+  <testcase name="[15] [MEDIUM, MEDIUM, LARGE], LARGE" classname="BasketTest" time="0.001"/>
+  <testcase name="[16] [MEDIUM, LARGE, LARGE], LARGE" classname="BasketTest" time="0.001"/>
+  <testcase name="[17] [X_LARGE, X_LARGE, X_LARGE], X_LARGE" classname="BasketTest" time="0.001"/>
+  <testcase name="[18] [LARGE, LARGE, LARGE], X_LARGE" classname="BasketTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
